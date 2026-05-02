@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Custom Blaze Drops BP",
+    "description": "Blazes drop a full stack of diamonds.",
+    "uuid": "9a8eb7f2-d3b7-4da0-9f89-6dcfa0560f5a",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "245d57f1-b8a2-4e36-9cab-b6b5c539837a",
+      "version": [1, 0, 0]
+    }
+  ]
+}
